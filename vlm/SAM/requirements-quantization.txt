@@ -1,0 +1,6 @@
+torch
+numpy
+torchvision
+openvino
+nncf
+opencv-python

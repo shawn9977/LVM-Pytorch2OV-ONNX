@@ -1,0 +1,4 @@
+openvino
+openvino-dev
+onnx
+nncf

@@ -1,0 +1,6 @@
+torch
+torchvision
+nncf
+openvino
+opencv-python
+git+https://github.com/mlfoundations/open_clip@5f7892b672b21e6853d0f6c11b18dda9bcf36c8d

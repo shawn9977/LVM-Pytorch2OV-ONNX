@@ -1,0 +1,6 @@
+torch
+numpy
+torchvision
+openvino
+nncf
+-e git+https://github.com/lukemelas/PyTorch-Pretrained-ViT.git#egg=pytorch_pretrained_vit
